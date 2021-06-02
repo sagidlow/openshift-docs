@@ -1,6 +1,7 @@
 // Module included in the following assemblies:
 //
 // * updating/updating-cluster-rhel-compute.adoc
+// * updating/updating-restricted-network-cluster.adoc
 
 [id="rhel-compute-updating_{context}"]
 = Updating RHEL compute machines in your cluster
